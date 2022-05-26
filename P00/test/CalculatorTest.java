@@ -8,6 +8,7 @@ import org.junit.Test;
 
 public class CalculatorTest {
 
+	
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 	}
