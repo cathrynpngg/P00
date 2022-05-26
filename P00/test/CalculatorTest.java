@@ -58,7 +58,7 @@ public class CalculatorTest {
 		// Arrange
 		int a = 13;
 		int b = 12;
-		
+		 
 		Calculator cal = new Calculator();
 		// Act
 		int actual = cal.multiply(a, b);
